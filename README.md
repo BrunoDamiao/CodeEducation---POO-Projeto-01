@@ -1,5 +1,5 @@
-# POO-Projeto01
-## Curso POO - Projeto 01 => CodeEducation
+# POO Projetos
+## Curso da CodeEducation
 
 1. echo "# Curso POO" >> README.md
 2. git init
