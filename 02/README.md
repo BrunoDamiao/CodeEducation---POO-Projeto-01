@@ -1,11 +1,10 @@
-# Curso POO - Projeto 01
+# Curso POO - Projeto 02
 ## Code.Education
 
-> Comandos básico para adicionar __arquivos__ e __documentos__ em um repositório _Github!!!_
+### Tipos de clientes
 
-1. echo "# Curso POO" >> README.md
-2. git init
-3. git add README.md
-4. git commit -m "first commit"
-5. git remote add origin https://github.com/BrunoDamiao/aulasgit.git
-6. git push -u origin maste
+1. Agora que você já tem seu cadastro de cliente, você deverá também aceitar clientes Pessoa Jurídica em sua listagem.
+2. Não se esqueça de trabalhar com os modificadores de acesso e os getters e setters.
+3. No momento da listagem dos clientes, você deve indicar em uma das colunas se o cliente é pessoa física ou jurídica.
+4. Ambos os tipos devem implementar uma interface onde seja possível classificar o grau de importância do cliente para a empresa (ex: cliente 1,2,3,5 estrelas).
+5. Você também terá a opção de criar clientes que utilizão endereço específico de cobrança, nesse caso, crie uma interface para que esses tipos de clientes possam implementar.
