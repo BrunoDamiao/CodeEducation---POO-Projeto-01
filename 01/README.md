@@ -1,11 +1,14 @@
-# Curso POO - Projeto 01
-## Code.Education
+# POO - Projeto 01
+## Curso da Code.Education
 
-> Comandos básico para adicionar __arquivos__ e __documentos__ em um repositório _Github!!!_
+### Cadastro de clientes
 
-1. echo "# Curso POO" >> README.md
-2. git init
-3. git add README.md
-4. git commit -m "first commit"
-5. git remote add origin https://github.com/BrunoDamiao/aulasgit.git
-6. git push -u origin maste
+- Crie uma classe com os principais atributos que um cliente deve ter, como nome, cpf, endereço, etc.
+
+- Crie um array de objetos de clientes, com 10 clientes dentro.
+
+- Crie uma página e faça a listagem geral dos clientes. Quando clicar sobre o cliente, você deverá mostrar os dados específicos do cliente selecionado.
+
+- Nessa listagem você também deverá ter a opção de ordenar os clientes pelo seu índice de forma ascendente e descendente.
+
+Não se esqueça de caprichar na interface utilizando o twitter bootstrap.
